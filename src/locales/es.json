@@ -1,0 +1,8 @@
+{
+    "welcome": "Bienvenido",
+    "productName": "Nombre del Producto",
+    "price": "Precio",
+    "inStock": "En Stock",
+    "outOfStock": "Agotado",
+    "recommendedProducts": "Productos Recomendados"
+  }
